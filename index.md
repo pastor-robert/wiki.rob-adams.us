@@ -10,3 +10,4 @@ And another line, after the table.
 
 [google](http://google.com)
 
+[hello](hello.html)
