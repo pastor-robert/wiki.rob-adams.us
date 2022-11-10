@@ -2,8 +2,4 @@
 
 ## This is an `h2`
 
-```mermaid
-graph TD
-  hello --> goodbye;
-```
-
+And this is a paragraph.
